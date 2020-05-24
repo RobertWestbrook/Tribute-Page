@@ -1,11 +1,43 @@
 body { 
     background-color: rgb(224, 215, 206);
-    color: rgb(6, 141, 13)
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.6rem;
 }
-span {
-    color: black;
+
+img {
+    max-width: 90%;
+    
 }
+
+.list {
+    font-weight: bold;
+    color: rgb(136, 21, 21)
+    
+}
+
+.title { 
+    text-align: center;
+    font-size:4rem;
+}
+
+.subtitle { 
+    text-align: center;
+    font-size: 2rem;
+    font-style: italic;
+    font-family: cursive;
+}
+
+.caption {
+    text-align: center;
+    font-size: 1.3rem;
+    font-style: italic;
+}
+
 #main {
     border-width: 10em;
     border-color: 10em;
+}
+
+#pic {
+    text-align: center;
 }
