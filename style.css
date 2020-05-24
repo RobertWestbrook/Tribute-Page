@@ -1,1 +1,11 @@
-
+body { 
+    background-color: rgb(224, 215, 206);
+    color: rgb(6, 141, 13)
+}
+span {
+    color: black;
+}
+#main {
+    border-width: 10em;
+    border-color: 10em;
+}
